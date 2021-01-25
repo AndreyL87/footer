@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    display: flex;
+    border: 1px;
+    justify-content: center;
+    flex-wrap: wrap; 
+    background: Gainsboro;   
+}
+.loyaty-program {    
+    padding-right: 50px;
+}
+.telephone {
+    padding: 10px;
+    padding-left: 50px;    
+}
+.description {
+    padding: 10px;
+    padding-left: 50px;        
+}
+.description-information {
+    padding: 10px;    
+    padding-left: 50px;    
+}
+.heading-loyaty-program {
+    font-size: 150%;
+    text-align: center;    
+}
+.heading-we-are-in-touch {
+    font-size: 150%;
+    text-align: center;
+    padding-left: 50px;
+}
+.heading-service-and-assistane {
+    font-size: 150%;
+    text-align: center;
+    padding-left: 45px;
+}
+.heading-information {
+    font-size: 150%;
+    text-align: center;
+    padding-left: 25px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    text-align: left;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+li {
+    list-style-type: none;    
+}
+.loyalty-program-logo {
+    left: 50px;
+}
+.select {
+    color:black;
+    font-weight: 700;
+}
+.social-networks {
+    background: red;
+}
